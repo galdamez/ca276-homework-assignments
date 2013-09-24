@@ -16,11 +16,11 @@
 
 
 // Problem 1
-// Send the following calculations to the console.
-// 5 plus 5
-// 5 minus 5
-// 5 times 5
-// 5 divided by 5
+	// Send the following calculations to the console.
+	// 5 plus 5
+	// 5 minus 5
+	// 5 times 5
+	// 5 divided by 5
 
 
 
