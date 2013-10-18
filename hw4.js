@@ -16,7 +16,8 @@
 
 // Methods (i.e. functions): 
 
-// introduce = returns 'Hello! My name is _______ and I am from ________'. Fill in the blanks with the values name and country of origin, respectively.
+// introduce = returns 'Hello! My name is _______ and I am from ________'. 
+// Fill in the blanks with the values name and country of origin, respectively.
 
 // addMedal = This takes a string as a parameter and adds it to the array of medals. It does not return anything.
 
@@ -71,7 +72,8 @@ var athlete3 = {
 // Sprinter
 // …or make your own!
 // 
-// This new prototype definition will add one method that returns a string message. It will also add a property unique to this type of athlete.
+// This new prototype definition will add one method that returns a string message. 
+// It will also add a property unique to this type of athlete.
 // 
 // You get to decide how to define these.
 // 
