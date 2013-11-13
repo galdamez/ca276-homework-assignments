@@ -117,3 +117,5 @@ the new row would go before it.
 
 // This technique is referred to as the Bubble sort. The rows with the highest values will 
 // "bubble" towards the end.
+
+// 5) Remove the empty TBODY element from the DOM tree.
